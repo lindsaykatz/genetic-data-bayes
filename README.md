@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This folder contains all materials relating to my project "An Investigation of Willingness to Provide Genetic Data to Public Schools". The `paper` folder contains the Rmd document for my final report, and the resulting PDF paper. The `models` folder contains the STAN code for the two Bayesian logistic regression models analyzed in this report, where `genetic_fixed.stan` is the fixed effects model, and `genetic_h.stan` is the hierarchical model.
+This repository contains all materials relating to my project "An Investigation of Willingness to Provide Genetic Data to Public Schools". The `paper` folder contains the Rmd document for my final report, and the resulting PDF paper. The `models` folder contains the STAN code for the two Bayesian logistic regression models analyzed in this report, where `genetic_fixed.stan` is the fixed effects model, and `genetic_h.stan` is the hierarchical model.
 
 ## Data Description
 
